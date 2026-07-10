@@ -1,0 +1,38 @@
+obsync-cli — Proprietary Software License
+Copyright (c) 2026 notesynchelper. All rights reserved.
+
+本软件（obsync-cli，以下简称「本软件」）以编译后的可执行文件形式分发，为闭源专有
+软件。在遵守以下条款的前提下，特此免费授予任何人安装并使用本软件的许可：
+
+1. 你可以为任何目的（包括商业目的）安装并运行本软件。
+2. 你不得对本软件进行反编译、反汇编或以其他方式尝试还原其源代码。
+3. 你不得移除或篡改本软件中的版权或许可声明。
+4. 未经版权持有人书面许可，你不得再分发本软件的修改版本。
+
+本软件按「现状」提供，不附带任何明示或默示的担保，包括但不限于对适销性、特定用途
+适用性及不侵权的担保。在任何情况下，作者或版权持有人均不对任何索赔、损害或其他责任
+负责，无论是在合同、侵权或其他行为中产生的，还是与本软件或本软件的使用或其他交易
+相关的。
+
+---
+
+obsync-cli — Proprietary Software License
+Copyright (c) 2026 notesynchelper. All rights reserved.
+
+This software (obsync-cli) is distributed in compiled/executable form only and is
+closed-source proprietary software. Permission is hereby granted, free of charge,
+to any person to install and use this software, subject to the following:
+
+1. You may install and run the software for any purpose, including commercial use.
+2. You may not decompile, disassemble, reverse engineer, or otherwise attempt to
+   derive the source code of the software.
+3. You may not remove or alter any copyright or license notices in the software.
+4. You may not redistribute modified versions of the software without prior written
+   permission from the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
+OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
